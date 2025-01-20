@@ -1,6 +1,5 @@
-# C# Principles Repository
-
-Welcome to the **C# Principles Repository**! This project contains various C# applications demonstrating fundamental programming concepts and principles using the C# language. Each folder corresponds to a specific topic or principle, showcasing examples and best practices.
+# C# Fundamentals Repository
+Welcome to the C# Principles Repository! This project contains various C# applications demonstrating fundamental programming concepts and principles using the C# language. Each folder corresponds to a specific topic or principle, showcasing examples and best practices.
 
 ## Project Organization
 
